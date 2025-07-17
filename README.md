@@ -4,7 +4,7 @@ This repo contains some project that are created with React & TailWind CSS. Most
 
 ### Hosted Links
 
-| Sl No | Column 2          | Column 3       |
+| Sl No | Project Name      | Hosted Link    |
 | ----- | ----------------- | -------------- |
 | 1     | bg-color-changer  | **Link Soon!** |
 | 2     | profile-component | **Link Soon!** |
