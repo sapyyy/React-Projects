@@ -4,10 +4,11 @@ This repo contains some project that are created with React & TailWind CSS. Most
 
 ### Hosted Links
 
-| Sl No | Project Name      | Hosted Link    |
-| ----- | ----------------- | -------------- |
-| 1     | bg-color-changer  | **Link Soon!** |
-| 2     | profile-component | **Link Soon!** |
+| Sl No | Project Name      | Hosted Link                                           |
+| ----- | ----------------- | ----------------------------------------------------- |
+| 1     | bg-color-changer  | **Link Soon!**                                        |
+| 2     | profile-component | [Link](https://profile-component-sapyyy.netlify.app/) |
+| 3     | responsive-nav    | [Link](https://nav-responsive-sapyyy.vercel.app/)     |
 
 ### Thank You!
 
