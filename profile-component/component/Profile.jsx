@@ -1,3 +1,5 @@
+import pic from "./images/dp.jpeg";
+
 export function Profile() {
   return (
     <div className="w-60 h-80 rounded-xl relative overflow-hidden bg-teal-50">
@@ -23,7 +25,7 @@ export function Profile() {
           <p className="font-light text-[0.7rem]">Posts</p>
         </div>
         <img
-          src="../images/dp.jpeg"
+          src={pic}
           className="border-3 absolute top-17 left-18 border-orange-700 z-10 rounded-full w-22 h-22 bg-teal-5 cursor-pointer"
         />
       </div>
