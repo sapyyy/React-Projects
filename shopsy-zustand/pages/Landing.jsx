@@ -9,7 +9,7 @@ import img6 from "../images/image6.webp";
 import img7 from "../images/image7.webp";
 import img8 from "../images/image8.webp";
 import img9 from "../images/image9.webp";
-import { useStoreOrders, useTotalPrice } from "../store/Store.jsx";
+import { useStoreOrders, useTotalPrice } from "../store/Store";
 
 let id = 0;
 

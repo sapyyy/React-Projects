@@ -14,7 +14,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
-import { useStoreOrders, useTotalPrice } from "../store/store";
+import { useStoreOrders, useTotalPrice } from "../store/Store";
 import { Order } from "./Order";
 import { toast } from "sonner";
 
